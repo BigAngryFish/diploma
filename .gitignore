@@ -1,0 +1,15 @@
+# IDEs
+.idea
+.vscode
+
+# Project
+data/*
+models/*
+reports/*
+
+# Python
+__pycache__
+.ipynb_checkpoints
+
+# Enviroments
+.venv
